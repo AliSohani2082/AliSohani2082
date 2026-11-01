@@ -11568,12 +11568,8 @@
       },
       "config": {
         "selectedTechs": [
-          "js",
           "ts",
-          "html",
-          "css",
           "py",
-          "rust",
           "go",
           "cpp",
           "react",
@@ -11587,7 +11583,9 @@
           "jest",
           "cloudflare",
           "grafana",
-          "prometheus"
+          "prometheus",
+          "docker",
+          "kubernetes"
         ],
         "theme": "dark",
         "perLine": 4
@@ -11655,7 +11653,7 @@
   "templateId": "native",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1793524448076_8stqi",
-    "updatedAt": "2026-11-01T09:14:11.460Z"
+    "revision": "rev_1793524547236_d4nfk",
+    "updatedAt": "2026-11-01T09:15:50.114Z"
   }
 }
