@@ -11546,7 +11546,7 @@
         "y": 402
       },
       "size": {
-        "width": 536,
+        "width": 408,
         "height": 160
       },
       "config": {},
@@ -11559,12 +11559,12 @@
       "widgetId": "tech-stack",
       "name": "Tech-stack Widget",
       "position": {
-        "x": 544,
+        "x": 428,
         "y": 402
       },
       "size": {
-        "width": 240,
-        "height": 160
+        "width": 360,
+        "height": 432
       },
       "config": {
         "selectedTechs": [
@@ -11575,7 +11575,19 @@
           "py",
           "rust",
           "go",
-          "cpp"
+          "cpp",
+          "react",
+          "nextjs",
+          "postgres",
+          "redis",
+          "bun",
+          "trpc",
+          "linux",
+          "terraform",
+          "jest",
+          "cloudflare",
+          "grafana",
+          "prometheus"
         ],
         "theme": "dark",
         "perLine": 4
@@ -11608,30 +11620,6 @@
       "locked": false,
       "visible": true,
       "zIndex": 6
-    },
-    {
-      "instanceId": "widget_f70e897a-0c5a-4aae-b417-a7da73a9c01e",
-      "widgetId": "premium-ascii-dev-score",
-      "name": "Premium-ascii-dev-score Widget",
-      "position": {
-        "x": 400,
-        "y": 578
-      },
-      "size": {
-        "width": 400,
-        "height": 250
-      },
-      "config": {
-        "lockAspectRatio": true,
-        "transparentBackground": true,
-        "backgroundColor": "transparent",
-        "accentColor": "#3fb950",
-        "secondaryColor": "#39c5cf",
-        "borderColor": "#30363d"
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 7
     },
     {
       "instanceId": "widget_aca21e58-5f5f-4465-9f5d-3ad90afb938e",
@@ -11667,7 +11655,7 @@
   "templateId": "native",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1793524126630_roavr",
-    "updatedAt": "2026-11-01T09:08:49.760Z"
+    "revision": "rev_1793524448076_8stqi",
+    "updatedAt": "2026-11-01T09:14:11.460Z"
   }
 }
